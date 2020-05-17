@@ -1,0 +1,5 @@
+/build/
+/out/
+*.cpp.autosave
+*.user
+*.vs
